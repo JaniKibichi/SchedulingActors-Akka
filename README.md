@@ -63,3 +63,32 @@ addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.6")
 ````
 - Run sbt update
 - Run sbt assembly to [package the standalone app](https://asciinema.org/a/EVekKYAX4asifjm8ILJVfj5lg)
+<br><br>
+- Branch out to explore packaging and deploying Akka standalone with Docker
+````
+git checkout -b stand_alone_akka_with_docker stand_alone_akka
+````
+- Check that you have docker installed:
+````
+$ sudo docker version
+````
+- Create a directory in the project root directory to manage the docker file: call it dockerApp
+- In /path-to-DockerApp/dockerApp/docker we copy our assembly jar
+- Create a bash script in /path-to-dockerApp/dockerApp/ : call it dockerize.sh
+- Make bash script executable and run it:
+````
+$ chmod u+x dockerize.sh
+$ ./dockerize.sh
+````
+- Run ./dockerize.sh 
+    [first Attempt](https://asciinema.org/a/acqXrB8XWmfwEp0tUZFA55jng) <br>
+    [second Attempt](https://asciinema.org/a/W6f2mEfaA8cUckAFH10BmpAUf)
+<br><br>
+- Branch out to explore configuring Akka
+````
+git checkout -b configure_akka_apps stand_alone_akka_with_docker
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ConfigureAkkaApps.scala</b>
+- Create a .conf file akka.conf in src/main/resources
+- Add the ActorSystem Name and ActorName
+- Run the App to [see configured Akka App](https://asciinema.org/a/NVxbo7kKrIkiC8qI3D4uyAmTE)    
