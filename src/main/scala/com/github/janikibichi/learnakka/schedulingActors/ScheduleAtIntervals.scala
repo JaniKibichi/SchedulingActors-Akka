@@ -12,6 +12,7 @@ object  ScheduleAtIntervals extends App {
   //Create and define an Actor in the ActorSystem
   val actor = actorSystem.actorOf(Props[RandomIntAdder])
 
+  //Send the messages to the actors at predefined intervals
   actorSystem.scheduler.scheduleOnce(10 seconds, actor, "tick")
   actorSystem.scheduler.schedule(11 seconds, 2 seconds, actor,"tick")
 }
