@@ -18,3 +18,10 @@ git checkout -b schedule_at_an_interval create_scheduler
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ScheduleAtIntervals.scala<b>
 - Run the App to [explore scheduling at an interval](https://asciinema.org/a/8N8GbRgwQCuHWLkFNNOcxs9U4)
+<br><br>
+- Branch out to explore cancelling a scheduled actor
+````
+git checkout -b cancelling_a_scheduled_actor schedule_at_an_interval
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CancelScheduledOperation.scala<b>
+- Run the App to [explore cancelling a scheduled actor](https://asciinema.org/a/8N8GbRgwQCuHWLkFNNOcxs9U4)
