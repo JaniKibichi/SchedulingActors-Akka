@@ -27,7 +27,10 @@ class CancelOperation extends Actor {
 
       //Call cancel from the cancellable when state is achieved
       i = i - 1
-      if (i == 0) CancelScheduledOperation.cancellable.cancel()
+      if (i == 0) {
+        println(s"State is at $i ... We are going off")
+        CancelScheduledOperation.cancellable.cancel()
+      }
     }
   }
 }
