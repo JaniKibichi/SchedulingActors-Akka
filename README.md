@@ -32,3 +32,10 @@ git checkout -b create_circuit_breaker cancelling_a_scheduled_actor
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CreateCircuitBreaker.scala<b>
 - Run the App to [explore cancelling a scheduled actor](https://asciinema.org/a/mPZXC0CSSyFjWpsaKm2J7qosl)
+<br><br>
+- Branch out to explore logging with actors
+````
+git checkout -b logging_with_actors create_circuit_breaker 
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.LoggingWithActors.scala<b>
+- Run the App to [explore logging with actors](https://asciinema.org/a/mPZXC0CSSyFjWpsaKm2J7qosl)
