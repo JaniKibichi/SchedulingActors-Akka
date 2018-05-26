@@ -45,4 +45,10 @@ git checkout -b logging_with_actors create_circuit_breaker
 git checkout -b unit_tests_for_actors logging_with_actors
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.UnitTestsForActors.scala</b>
-- Run the App to [writing unit tests for actors](https://asciinema.org/a/mPZXC0CSSyFjWpsaKm2J7qosl)
+- Add the dependencies for testing:
+````
+libraryDependencies += "com.typesafe.akka" %% "akka-testkit" % "2.5.12" % Test
+
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.4" % Test
+````
+- Run the App to [write unit tests for actors](https://asciinema.org/a/6htDURXjZK5Lzeg70NEYOKdnv)

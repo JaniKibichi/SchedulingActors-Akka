@@ -7,3 +7,8 @@ scalaVersion := "2.11.12"
 libraryDependencies += "com.typesafe.akka" %% "akka-actor" % "2.5.12"
 
 libraryDependencies += "com.typesafe.akka" %% "akka-agent" % "2.5.12"
+
+libraryDependencies += "com.typesafe.akka" %% "akka-testkit" % "2.5.12" % Test
+
+libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.4" % Test
+

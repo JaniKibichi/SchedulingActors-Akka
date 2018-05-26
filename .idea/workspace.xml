@@ -2,8 +2,58 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0bb67f1d-61cc-49f5-99e2-75d18f661733" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__com_typesafe_akka_akka_testkit_2_11_2_5_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_parser_combinators_2_11_1_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_modules_scala_xml_2_11_1_0_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scala_lang_scala_reflect_2_11_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalactic_scalactic_2_11_3_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/sbt__org_scalatest_scalatest_2_11_3_0_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/StandAloneAkka.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/schedulingactors.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/schedulingactors.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.sbt" beforeDir="false" afterPath="$PROJECT_DIR$/build.sbt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4a5c84d20879393674c5$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4a5c84d20879393674c5.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4a5c84d20879393674c5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d60f80060afba3bcb84$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d60f80060afba3bcb84.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$5d60f80060afba3bcb84.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ee969c074e983ee344d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ee969c074e983ee344d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6ee969c074e983ee344d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$be99e0c76a8eb86b76a6$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$be99e0c76a8eb86b76a6.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$be99e0c76a8eb86b76a6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb935a16a3897ec18531$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb935a16a3897ec18531.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$fb935a16a3897ec18531.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/schedulingactors-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/schedulingactors-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/schedulingactors-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/schedulingactors-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-schedulingactors-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/.history" beforeDir="false" afterPath="$PROJECT_DIR$/target/.history" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/target/streams/$global/ivyConfiguration/$global/streams/out" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/project/project/target/" />
@@ -25,8 +75,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="367">
-                <caret line="43" column="4" lean-forward="true" selection-start-line="41" selection-end-line="47" selection-end-column="97" />
+              <first_editor relative-caret-position="237">
+                <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               </first_editor>
               <second_editor />
             </state>
@@ -34,19 +84,24 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala">
+        <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/StandAloneAkka.scala">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/LoggingWithActors.scala">
+        <entry file="file://$PROJECT_DIR$/build.sbt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="26" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+            <state relative-caret-position="216">
+              <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -74,14 +129,15 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/build.sbt" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/ScheduleTheOperation.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/ScheduleAtIntervals.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/CancelScheduledOperation.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/CreateCircuitBreaker.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/LoggingWithActors.scala" />
-        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/test/scala/UnitTestsForActors.scala" />
         <option value="$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala" />
+        <option value="$PROJECT_DIR$/build.sbt" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -91,130 +147,132 @@
     <option name="width" value="1242" />
     <option name="height" value="741" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectUserFactors">
     <factor id="binaryFeature:liftShorter">
       <dailyData date="26-5-2018">
-        <observation name="false" value="312.0" />
+        <observation name="false" value="361.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:liftShorterClasses">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:middleMatching">
       <dailyData date="26-5-2018">
-        <observation name="false" value="311.0" />
+        <observation name="false" value="360.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:nonGeneric">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_inResolveScope">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="false" value="123.0" />
-        <observation name="true" value="182.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="false" value="142.0" />
+        <observation name="true" value="210.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_openedInEditor">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="false" value="241.0" />
-        <observation name="true" value="64.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="false" value="283.0" />
+        <observation name="true" value="69.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameDirectory">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="false" value="241.0" />
-        <observation name="true" value="64.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="false" value="283.0" />
+        <observation name="true" value="69.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sameLogicalRoot">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="false" value="241.0" />
-        <observation name="true" value="64.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="false" value="283.0" />
+        <observation name="true" value="69.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:prox_sdkOrLibrary">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="false" value="300.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="false" value="347.0" />
         <observation name="true" value="5.0" />
       </dailyData>
     </factor>
     <factor id="binaryFeature:templates">
       <dailyData date="26-5-2018">
-        <observation name="false" value="312.0" />
+        <observation name="false" value="361.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:accessible">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:expectedType">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:kind">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_groovyReferenceListWeigher">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="unknown" value="305.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="unknown" value="352.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_javaInheritance">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="false" value="79.0" />
-        <observation name="null" value="225.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="false" value="96.0" />
+        <observation name="null" value="255.0" />
         <observation name="true" value="1.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:prox_referenceList">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="unknown" value="305.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="unknown" value="352.0" />
       </dailyData>
     </factor>
     <factor id="categoricalFeature:recursion">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="completionFinishedType">
       <dailyData date="26-5-2018">
-        <observation name="cancelled" value="2159.0" />
-        <observation name="explicitSelect" value="141.0" />
-        <observation name="typedSelect" value="171.0" />
+        <observation name="cancelled" value="2480.0" />
+        <observation name="explicitSelect" value="164.0" />
+        <observation name="typedSelect" value="197.0" />
       </dailyData>
     </factor>
     <factor id="completionType">
       <dailyData date="26-5-2018">
-        <observation name="BASIC" value="411.0" />
+        <observation name="BASIC" value="484.0" />
       </dailyData>
     </factor>
     <factor id="completionUsage">
       <dailyData date="26-5-2018">
-        <observation name="count" value="2471.0" />
+        <observation name="count" value="2841.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:explicitProximity">
       <dailyData date="26-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="623.0" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -223,7 +281,7 @@
     <factor id="doubleFeature:grouping">
       <dailyData date="26-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="623.0" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -231,36 +289,36 @@
     </factor>
     <factor id="doubleFeature:mostUsed">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:nameEnd">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:position">
       <dailyData date="26-5-2018">
-        <observation name="average" value="0.093098" />
-        <observation name="count" value="623.0" />
+        <observation name="average" value="0.09154" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="6.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.303311" />
+        <observation name="variance" value="0.289951" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prefix">
       <dailyData date="26-5-2018">
-        <observation name="average" value="-848.632424" />
-        <observation name="count" value="623.0" />
+        <observation name="average" value="-845.062413" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="-1253.0" />
-        <observation name="variance" value="221634.318481" />
+        <observation name="variance" value="223241.48058" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:priority">
       <dailyData date="26-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="623.0" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -268,48 +326,48 @@
     </factor>
     <factor id="doubleFeature:prox_explicitlyImported">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="average" value="63.711002" />
-        <observation name="count" value="609.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="average" value="59.459459" />
+        <observation name="count" value="703.0" />
         <observation name="max" value="300.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="11385.271732" />
+        <observation name="variance" value="11243.270159" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_knownElement">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="average" value="0.10509" />
-        <observation name="count" value="609.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="average" value="0.108108" />
+        <observation name="count" value="703.0" />
         <observation name="max" value="8.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.390885" />
+        <observation name="variance" value="0.371503" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_sameModule">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="average" value="0.420361" />
-        <observation name="count" value="609.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="average" value="0.392603" />
+        <observation name="count" value="703.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.50646" />
+        <observation name="variance" value="0.500006" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:prox_samePsiMember">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="7.0" />
-        <observation name="average" value="0.197044" />
-        <observation name="count" value="609.0" />
+        <observation name="UNDEFINED" value="9.0" />
+        <observation name="average" value="0.184922" />
+        <observation name="count" value="703.0" />
         <observation name="max" value="2.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="0.179434" />
+        <observation name="variance" value="0.179989" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:query_length">
       <dailyData date="26-5-2018">
         <observation name="average" value="0.0" />
-        <observation name="count" value="623.0" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="0.0" />
         <observation name="min" value="0.0" />
         <observation name="variance" value="0.0" />
@@ -317,32 +375,32 @@
     </factor>
     <factor id="doubleFeature:result_length">
       <dailyData date="26-5-2018">
-        <observation name="average" value="6.971108" />
-        <observation name="count" value="623.0" />
+        <observation name="average" value="6.889043" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="24.0" />
         <observation name="min" value="1.0" />
-        <observation name="variance" value="14.293124" />
+        <observation name="variance" value="14.221548" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sameWords">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:shorter">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:simple">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:sorter">
       <dailyData date="26-5-2018">
         <observation name="average" value="1.0" />
-        <observation name="count" value="623.0" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="1.0" />
         <observation name="min" value="1.0" />
         <observation name="variance" value="0.0" />
@@ -350,49 +408,49 @@
     </factor>
     <factor id="doubleFeature:statics">
       <dailyData date="26-5-2018">
-        <observation name="UNDEFINED" value="312.0" />
+        <observation name="UNDEFINED" value="361.0" />
       </dailyData>
     </factor>
     <factor id="doubleFeature:stats">
       <dailyData date="26-5-2018">
-        <observation name="average" value="2848.420546" />
-        <observation name="count" value="623.0" />
+        <observation name="average" value="2848.51595" />
+        <observation name="count" value="721.0" />
         <observation name="max" value="10000.0" />
         <observation name="min" value="0.0" />
-        <observation name="variance" value="18354871.030053" />
+        <observation name="variance" value="18493751.242767" />
       </dailyData>
     </factor>
     <factor id="itemPosition">
       <dailyData date="26-5-2018">
-        <observation name="0" value="124.0" />
-        <observation name="1" value="9.0" />
-        <observation name="2" value="7.0" />
+        <observation name="0" value="144.0" />
+        <observation name="1" value="11.0" />
+        <observation name="2" value="8.0" />
         <observation name="6" value="1.0" />
       </dailyData>
     </factor>
     <factor id="mnemonicsUsage">
       <dailyData date="26-5-2018">
-        <observation name="total" value="95.0" />
+        <observation name="total" value="113.0" />
         <observation name="withMnemonics" value="1.0" />
       </dailyData>
     </factor>
     <factor id="prefixLength">
       <dailyData date="26-5-2018">
-        <observation name="0" value="28.0" />
-        <observation name="1" value="18.0" />
-        <observation name="2" value="47.0" />
-        <observation name="3" value="27.0" />
-        <observation name="4" value="9.0" />
+        <observation name="0" value="29.0" />
+        <observation name="1" value="22.0" />
+        <observation name="2" value="51.0" />
+        <observation name="3" value="37.0" />
+        <observation name="4" value="11.0" />
         <observation name="5" value="6.0" />
-        <observation name="6" value="3.0" />
+        <observation name="6" value="5.0" />
         <observation name="7" value="2.0" />
         <observation name="8" value="1.0" />
       </dailyData>
     </factor>
     <factor id="timeBetweenTyping">
       <dailyData date="26-5-2018">
-        <observation name="average" value="249.16095" />
-        <observation name="count" value="758.0" />
+        <observation name="average" value="258.065242" />
+        <observation name="count" value="889.0" />
       </dailyData>
     </factor>
   </component>
@@ -408,32 +466,53 @@
         <subPane>
           <expand>
             <path>
-              <item name="schedulingactors_6784" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="schedulingactors_6784" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="schedulingactors_6784" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="schedulingactors_6784" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="schedulingactors_6784" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
               <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+              <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SchedulingActors-Akka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="schedulingActors" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -481,7 +560,7 @@
       <option name="ACTIVITY_CLASS" value="" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527334708209" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527339901407" />
       </method>
     </configuration>
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Instrumented Tests">
@@ -505,7 +584,7 @@
       </Profilers>
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
-        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527334708206" />
+        <option name="com.android.instantApps.provision.BeforeRunTask" enabled="true" clearCache="false" clearProvisionedDevices="false" myTimestamp="1527339901402" />
       </method>
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -522,6 +601,25 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScalaTests in 'schedulingActors'" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true">
+      <module name="schedulingactors" />
+      <setting name="path" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="file://$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="showProgressMessages" value="true" />
+      <setting name="useSbt" value="false" />
+      <setting name="useUiWithSbt" value="false" />
+      <envs />
+      <setting name="testKind" value="All in package" />
+      <setting name="package" value="com.github.janikibichi.learnakka.schedulingActors" />
+      <buffered bufClass="com.github.janikibichi.learnakka.schedulingActors.TestSpec" />
+      <buffered bufClass="com.github.janikibichi.learnakka.schedulingActors.TestSpec" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -543,6 +641,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="ScalaTest.ScalaTests in 'schedulingActors'" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
     <option name="availableProjects">
@@ -571,7 +674,8 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/build.sbt" value="0" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1539672184" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2073824194" />
       </map>
     </option>
     <option name="projectSyncType">
@@ -602,6 +706,11 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="ScalaTests_in_'schedulingActors' - 2018.05.26 at 15h 32m 59s.xml">
+      <configuration name="ScalaTests in 'schedulingActors'" configurationId="ScalaTestRunConfiguration" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
     <editor active="true" />
@@ -611,16 +720,16 @@
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.24980047" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42059058" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="sbt-shell-toolwindow" weight="0.32952693" />
+      <window_info anchor="bottom" id="sbt-shell-toolwindow" visible="true" weight="0.32952693" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32952693" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Build" weight="0.3284553" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.812398" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -641,13 +750,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/build.sbt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/ScheduleTheOperation.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -695,18 +797,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/UnitTestsForActors.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="162">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+          <folding>
+            <element signature="e#59#104#0" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="e#59#104#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.sbt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/com/github/janikibichi/learnakka/schedulingActors/UnitTestsForActors.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala/com/github/janikibichi/learnakka/schedulingActors/StandAloneAkka.scala">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="367">
-            <caret line="43" column="4" lean-forward="true" selection-start-line="41" selection-end-line="47" selection-end-column="97" />
+          <first_editor relative-caret-position="237">
+            <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           </first_editor>
           <second_editor />
         </state>
