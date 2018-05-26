@@ -25,6 +25,6 @@ class LoggingActor extends Actor with ActorLogging {
     }
 
     case msg =>
-      log.warning(s" i dont know what you are talking about : $msg")
+      log.warning(s"I don't know what you are talking about : $msg")
   }
 }
