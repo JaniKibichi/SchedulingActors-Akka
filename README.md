@@ -11,3 +11,10 @@ git checkout -b create_scheduler master
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ScheduleTheOperation.scala<b>
 - Run the App to [see the Schedulers in Action](https://asciinema.org/a/wuZVNbRKY8p7YB5Dw8gPSCWKp)
+<br><br>
+- Branch out to explore scheduling an actor's at an interval
+````
+git checkout -b schedule_at_an_interval create_scheduler 
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ScheduleAtIntervals.scala<b>
+- Run the App to [explore scheduling at an interval](https://asciinema.org/a/wuZVNbRKY8p7YB5Dw8gPSCWKp)
