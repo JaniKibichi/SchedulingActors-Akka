@@ -26,7 +26,7 @@ git checkout -b cancelling_a_scheduled_actor schedule_at_an_interval
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CancelScheduledOperation.scala<b>
 - Run the App to [explore cancelling a scheduled actor](https://asciinema.org/a/T2V4PKDkoQ4jmCJw0QfI0p2yb)
 <br><br>
-- Branch out to explore creating a circuit breaker
+- Branch out to explore creating a circuit breaker to avoid cascading failure
 ````
 git checkout -b create_circuit_breaker cancelling_a_scheduled_actor
 ````
