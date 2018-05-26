@@ -52,3 +52,14 @@ libraryDependencies += "com.typesafe.akka" %% "akka-testkit" % "2.5.12" % Test
 libraryDependencies += "org.scalatest" %% "scalatest" % "3.0.4" % Test
 ````
 - Run the App to [write unit tests for actors](https://asciinema.org/a/6htDURXjZK5Lzeg70NEYOKdnv)
+<br><br>
+- Branch out to explore packaging and deploying Akka standalone
+````
+git checkout -b stand_alone_akka unit_tests_for_actors 
+````
+- Add the dependencies for plugin assembly in project/assembly.sbt:
+````
+addSbtPlugin("com.eed3si9n" % "sbt-assembly" % "0.14.6")
+````
+- Run sbt update
+- Run sbt assembly to [package the standalone app](https://asciinema.org/a/EVekKYAX4asifjm8ILJVfj5lg)
