@@ -10,4 +10,4 @@ With schedulers, we set up an operation to run at a particular time in the futur
 git checkout -b create_scheduler master
 ````
 - Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ScheduleTheOperation.scala<b>
-- Run the App to [see the Schedulers in Action]()
+- Run the App to [see the Schedulers in Action](https://asciinema.org/a/wuZVNbRKY8p7YB5Dw8gPSCWKp)
