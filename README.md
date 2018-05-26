@@ -9,7 +9,7 @@ With schedulers, we set up an operation to run at a particular time in the futur
 ````
 git checkout -b create_scheduler master
 ````
-- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ScheduleTheOperation.scala<b>
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.ScheduleTheOperation.scala</b>
 - Run the App to [see the Schedulers in Action](https://asciinema.org/a/wuZVNbRKY8p7YB5Dw8gPSCWKp)
 <br><br>
 - Branch out to explore scheduling an actor's at an interval
@@ -23,19 +23,26 @@ git checkout -b schedule_at_an_interval create_scheduler
 ````
 git checkout -b cancelling_a_scheduled_actor schedule_at_an_interval
 ````
-- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CancelScheduledOperation.scala<b>
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CancelScheduledOperation.scala</b>
 - Run the App to [explore cancelling a scheduled actor](https://asciinema.org/a/T2V4PKDkoQ4jmCJw0QfI0p2yb)
 <br><br>
 - Branch out to explore creating a circuit breaker to avoid cascading failure
 ````
 git checkout -b create_circuit_breaker cancelling_a_scheduled_actor
 ````
-- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CreateCircuitBreaker.scala<b>
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.CreateCircuitBreaker.scala</b>
 - Run the App to [explore cancelling a scheduled actor](https://asciinema.org/a/mPZXC0CSSyFjWpsaKm2J7qosl)
 <br><br>
 - Branch out to explore logging with actors
 ````
 git checkout -b logging_with_actors create_circuit_breaker 
 ````
-- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.LoggingWithActors.scala<b>
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.LoggingWithActors.scala</b>
 - Run the App to [explore logging with actors](https://asciinema.org/a/mPZXC0CSSyFjWpsaKm2J7qosl)
+<br><br>
+- Branch out to explore writing unit tests for actors
+````
+git checkout -b unit_tests_for_actors logging_with_actors
+````
+- Create the file to handle the actor system: <b>com.github.janikibichi.learnakka.schedulingActors.UnitTestsForActors.scala</b>
+- Run the App to [writing unit tests for actors](https://asciinema.org/a/mPZXC0CSSyFjWpsaKm2J7qosl)
